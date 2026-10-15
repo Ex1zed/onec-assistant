@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymysql
+cryptography
+qdrant-client
+requests
+jinja2
+python-dotenv
+streamlit

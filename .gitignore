@@ -1,0 +1,14 @@
+.env
+__pycache__/
+venv/
+.venv/
+
+*.jar
+bsl-language-server.jar
+bsl-json.json
+data/reports/
+
+.DS_Store
+.idea/
+.vscode/
+*.log
